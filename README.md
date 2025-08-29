@@ -47,5 +47,5 @@ This project uses publicly available datasets and educational resources from WHO
 
 The Nourish Nudge Learn application itself is open source and released under the MIT License, which allows reuse and modification with attribution (see Appendix J in dissertation).
 
-Author : Ugochukwu Muanya  
-GitHub : @Ugomuanya
+Author :Ugochukwu Muanya 
+GitHub :@Ugomuanya
