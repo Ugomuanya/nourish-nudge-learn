@@ -26,7 +26,7 @@ export const modules: Module[] = [
         {
           id: 'q1',
           question: 'What should make up half of your balanced plate?',
-          options: ['Proteins', 'Carbohydrates', 'Vegetables and fruits', 'Fats'],
+          options: ['Proteins', 'Carbohydrates', 'Vegetables and Fruits', 'Fats'],
           correctAnswer: 2,
           explanation: 'Vegetables and fruits should fill half your plate as they provide essential vitamins, minerals, and fiber.'
         },
